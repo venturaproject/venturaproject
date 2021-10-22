@@ -8,3 +8,4 @@
 venturaproject/venturaproject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/ventura"><img src="https://api.daily.dev/devcards/625551a826b54bebb2abedcc5d8abac3.png?r=kwf" width="400" alt="ventura's Dev Card"/></a>
